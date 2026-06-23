@@ -1,9 +1,9 @@
 {
   "id": "mermaid-fit",
   "name": "Mermaid Export Fit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minAppVersion": "0.15.0",
-  "description": "Keeps Mermaid diagrams visible in Obsidian with horizontal scrolling and export-friendly PDF/HTML scaling.",
+  "description": "Prevents wide Mermaid diagrams from breaking during PDF/HTML export.",
   "author": "Fuyo AIC",
   "authorUrl": "",
   "fundingUrl": "",

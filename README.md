@@ -75,4 +75,4 @@ MIT. See [LICENSE](LICENSE).
 
 Mermaid Export Fit 默认使用英文界面，可在插件设置页右上角点击地球图标切换为中文。它解决的核心痛点是：大型 Mermaid 图表在 Obsidian 内部可以想办法查看，但一旦导出为 PDF/HTML 仍可能被裁切；安装本插件并重启 vault 后，导出也会自动适配，不需要额外操作。
 
-版本: 1.0.0
+版本: 1.0.1
